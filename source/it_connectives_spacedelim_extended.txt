@@ -1,0 +1,346 @@
+a causa d'	CONTINGENCY:Cause:Reason	prep
+a causa degli	CONTINGENCY:Cause:Reason	prep
+a causa dei	CONTINGENCY:Cause:Reason	prep
+a causa del	CONTINGENCY:Cause:Reason	prep
+a causa dell'	CONTINGENCY:Cause:Reason	prep
+a causa della	CONTINGENCY:Cause:Reason	prep
+a causa delle	CONTINGENCY:Cause:Reason	prep
+a causa dello	CONTINGENCY:Cause:Reason	prep
+a causa di	CONTINGENCY:Cause:Reason	prep
+a condizione che	CONTINGENCY:Condition	csu
+a dire il vero	COMPARISON:Concession:Arg2-as-denier	adv
+a dire la verità	COMPARISON:Concession:Arg2-as-denier	adv
+a dispetto d'	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto degli	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto dei	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto del	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto dell'	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto della	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto delle	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto dello	COMPARISON:Concession:Arg1-as-denier	csu
+a dispetto di	COMPARISON:Concession:Arg1-as-denier	csu
+a meno che	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno d'	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno degli	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno dei	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno del	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno dell'	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno della	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno delle	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno dello	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a meno di	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+a onor del vero	COMPARISON:Concession:Arg2-as-denier	adv
+a tal fine	CONTINGENCY:Purpose:Arg1-as-goal	cco
+ad esempio	EXPANSION:Instantiation	cco
+ad ogni modo	COMPARISON:Concession:Arg2-as-denier	adv
+affinché	CONTINGENCY:Purpose:Arg2-as-goal	csu
+al che	CONTINGENCY:Cause:Result/TEMPORAL:Asynchronous:Precedence	csu
+al contrario	COMPARISON:Contrast/COMPARISON:Concession:Arg2-as-denier	cco
+al fine di	CONTINGENCY:Purpose:Arg2-as-goal	?
+al massimo	EXPANSION:Exception:Arg2-as-excpt	cco
+al posto d'	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto degli	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto dei	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto del	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto dell'	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto della	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto delle	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto dello	EXPANSION:Substitution:Arg1-as-subst	prep
+al posto di	EXPANSION:Substitution:Arg1-as-subst	prep
+alla fin fine	TEMPORAL:Asynchronous:Precedence	adv
+alla fine	TEMPORAL:Asynchronous:Precedence	prep
+allo scopo d'	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo degli	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo dei	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo del	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo dell'	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo della	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo delle	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo dello	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo scopo di	CONTINGENCY:Purpose:Arg2-as-goal	adv
+allo stesso modo	COMPARISON:Similarity	prep
+allora	CONTINGENCY:Cause:Result/TEMPORAL:Asynchronous:Precedence	cco
+altrimenti	CONTINGENCY:Negative-Condition:Arg1-as-negcond	cco
+anche	COMPARISON:Concession:Arg1-as-denier/EXPANSION:Conjunction	csu
+anche se	COMPARISON:Concession:Arg1-as-denier	csu
+anzi	EXPANSION:Conjunction	cco
+anziché	EXPANSION:Substitution:Arg1-as-subst	cco
+benché	COMPARISON:Concession:Arg1-as-denier	csu
+bensì	COMPARISON:Contrast	csu
+cionondimeno	COMPARISON:Concession:Arg2-as-denier	cco
+ciononostante	COMPARISON:Concession:Arg2-as-denier	cco
+cioè	EXPANSION:Equivalence	csu
+ciò nondimeno	COMPARISON:Concession:Arg2-as-denier	cco
+ciò nonostante	COMPARISON:Concession:Arg2-as-denier	cco
+come	TEMPORAL:Synchronous/COMPARISON:Similarity	csu
+come conseguenza	CONTINGENCY:Cause:Result/TEMPORAL:Asynchronous:Precedence	cco
+come conclusione	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+comunque	COMPARISON:Concession:Arg2-as-denier/EXPANSION:Conjunction	csu
+con ciò	CONTINGENCY:Cause:Result	csu
+con lo scopo d'	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo degli	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo dei	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo del	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo dell'	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo della	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo delle	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo dello	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con lo scopo di	CONTINGENCY:Purpose:Arg2-as-goal	adv
+con questo	CONTINGENCY:Cause:Result	csu
+con tutto questo	COMPARISON:Concession:Arg2-as-denier	cco
+concludendo	EXPANSION:Level-of-detail:Arg1-as-detail	?
+contrariamente a	COMPARISON:Contrast	prep
+contrariamente agli	COMPARISON:Contrast	prep
+contrariamente ai	COMPARISON:Contrast	prep
+contrariamente al	COMPARISON:Contrast	prep
+contrariamente all'	COMPARISON:Contrast	prep
+contrariamente alla	COMPARISON:Contrast	prep
+contrariamente alle	COMPARISON:Contrast	prep
+contrariamente allo	COMPARISON:Contrast	prep
+contuttociò	COMPARISON:Concession:Arg2-as-denier	prep
+cosicché	CONTINGENCY:Cause:Result	prep
+così	CONTINGENCY:Cause:Result	prep
+così che	CONTINGENCY:Cause:Result	prep
+così come	COMPARISON:Similarity	prep
+d' altra parte	COMPARISON:Contrast	cco
+d' altro lato	COMPARISON:Contrast	cco
+da allora	CONTINGENCY:Cause:Result/TEMPORAL:Asynchronous:Precedence	cco
+da ciò	CONTINGENCY:Cause:Result	cco
+da quando	TEMPORAL:Asynchronous:Succession	other
+da ultimo	TEMPORAL:Asynchronous:Precedence	cco
+da un canto	COMPARISON:Contrast	other
+da un lato	COMPARISON:Contrast	other
+da una parte	COMPARISON:Contrast	other
+dal momento che	CONTINGENCY:Cause:Reason	cco
+dall' altra	COMPARISON:Contrast	other
+dall' altra parte	COMPARISON:Contrast	other
+dall' altro	COMPARISON:Contrast	other
+dall' altro lato	COMPARISON:Contrast	other
+dato che	CONTINGENCY:Cause:Reason	?
+del resto	CONTINGENCY:Cause:Result	csu
+di conseguenza	CONTINGENCY:Cause:Result	csu
+di fatto	EXPANSION:Level-of-detail:Arg1-as-detail	adv
+di modo che	CONTINGENCY:Cause:Result	csu
+difatti	EXPANSION:Instantiation	cco
+dimodoché	CONTINGENCY:Cause:Result	csu
+dopo	TEMPORAL:Asynchronous:Precedence	adv
+dopo che	TEMPORAL:Asynchronous:Precedence	?
+dopo di che	TEMPORAL:Asynchronous:Precedence	cco
+dopo di ciò	TEMPORAL:Asynchronous:Precedence	cco
+dopodiché	TEMPORAL:Asynchronous:Precedence	cco
+dopotutto	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+dunque	CONTINGENCY:Cause:Result	cco
+e	EXPANSION:Conjunction/TEMPORAL:Asynchronous:Precedence/CONTINGENCY:Cause:Result	cco
+ebbene	CONTINGENCY:Cause:Result	cco
+eccetto	EXPANSION:Exception:Arg2-as-excpt	csu
+ed	EXPANSION:Conjunction/TEMPORAL:Asynchronous:Precedence/CONTINGENCY:Cause:Result	cco
+eppure	COMPARISON:Concession:Arg2-as-denier	cco
+fatto sta che	COMPARISON:Concession:Arg2-as-denier	cco
+fin qui	EXPANSION:Conjunction	cco
+fino a questo punto	EXPANSION:Conjunction	cco
+frattanto	TEMPORAL:Synchronous	cco
+fuorché	EXPANSION:Exception:Arg2-as-excpt	cco
+giacché	CONTINGENCY:Cause:Reason	cco
+in altre parole	EXPANSION:Equivalence	cco
+in altri termini	EXPANSION:Equivalence	cco
+in aggiunta	EXPANSION:Conjunction	?
+in base a	CONTINGENCY:Cause:Reason	prep
+in base agli	CONTINGENCY:Cause:Reason	prep
+in base ai	CONTINGENCY:Cause:Reason	prep
+in base al	CONTINGENCY:Cause:Reason	prep
+in base all'	CONTINGENCY:Cause:Reason	prep
+in base alla	CONTINGENCY:Cause:Reason	prep
+in base alle	CONTINGENCY:Cause:Reason	prep
+in base allo	CONTINGENCY:Cause:Reason	prep
+in breve	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+in caso contrario	CONTINGENCY:Negative-Condition:Arg1-as-negcond	cco
+in conclusione	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+in conseguenza di ciò	CONTINGENCY:Cause:Result	prep
+in definitiva	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+in fin dei conti	EXPANSION:Level-of-detail:Arg1-as-detail	adv
+in luogo d'	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo degli	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo dei	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo del	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo dell'	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo della	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo delle	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo dello	EXPANSION:Substitution:Arg1-as-subst	prep
+in luogo di	EXPANSION:Substitution:Arg1-as-subst	prep
+in modo che	CONTINGENCY:Cause:Result	csu
+in modo da	CONTINGENCY:Cause:Result	csu
+in ogni caso	EXPANSION: Conjunction	adv
+in ogni modo	COMPARISON:Concession:Arg2-as-denier	adv
+in più	EXPANSION:Conjunction	adv
+in poche parole	EXPANSION:Level-of-detail:Arg1-as-detail	adv
+in quanto	CONTINGENCY:Cause:Reason	csu
+in quanto al resto	EXPANSION:Exception:Arg1-as-excpt	other
+in realtà	EXPANSION:Level-of-detail:Arg2-as-detail	other
+in seguito	TEMPORAL:Asynchronous:Precedence	adv
+in seguito a	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito a ciò	CONTINGENCY:Cause:Result/TEMPORAL:Asynchronous:Precedence	adv
+in seguito agli	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito ai	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito al	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito all'	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito alla	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito alle	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in seguito allo	CONTINGENCY:Cause:Reason/TEMPORAL:Asynchronous:Succession	adv
+in sintesi	EXPANSION:Level-of-detail:Arg1-as-detail	adv
+in sostanza	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+in ultima analisi	EXPANSION:Level-of-detail/Arg1-as-detail/EXPANSION:Conjunction	cco
+in verità	COMPARISON:Concession:Arg2-as-denier	adv
+infatti	EXPANSION:Instantiation	cco
+infine	EXPANSION:Conjunction	adv
+innanzi tutto	EXPANSION:Conjunction	adv
+innanzitutto	EXPANSION:Conjunction	adv
+inoltre	EXPANSION:Conjunction	cco
+insomma	EXPANSION:Level-of-detail:Arg1-as-detail	adv
+intanto	TEMPORAL:Synchronous	cco
+invece	COMPARISON:Concession:Arg2-as-denier/COMPARISON:Contrast	adv
+invece che	EXPANSION:Substitution:Arg1-as-subst	prep
+invece d'	EXPANSION:Substitution:Arg1-as-subst	prep
+invece degli	EXPANSION:Substitution:Arg1-as-subst	prep
+invece dei	EXPANSION:Substitution:Arg1-as-subst	prep
+invece del	EXPANSION:Substitution:Arg1-as-subst	prep
+invece dell'	EXPANSION:Substitution:Arg1-as-subst	prep
+invece della	EXPANSION:Substitution:Arg1-as-subst	prep
+invece delle	EXPANSION:Substitution:Arg1-as-subst	prep
+invece dello	EXPANSION:Substitution:Arg1-as-subst	prep
+invece di	EXPANSION:Substitution:Arg1-as-subst	prep
+invero	EXPANSION:Instantiation/EXPANSION:Level-of-detail:Arg2-as-detail	cco
+ma	COMPARISON:Concession:Arg2-as-denier/COMPARISON:Contrast	cco
+malgrado	COMPARISON:Concession:Arg1-as-denier	csu
+malgrado ciò	COMPARISON:Concession:Arg2-as-denier	csu
+malgrado questo	COMPARISON:Concession:Arg2-as-denier	csu
+mentre	TEMPORAL:Synchronous/EXPANSION:Conjunction/COMPARISON	csu,cco
+nel caso in cui	CONTINGENCY:Condition	?
+nella situazione in cui	CONTINGENCY:Condition	?
+nel contempo	TEMPORAL:Synchronous	cco
+nel frattempo	TEMPORAL:Synchronous	adv
+non appena	TEMPORAL:Synchronous/CONTINGENCY:Condition	adv
+non per tanto	COMPARISON:Concession:Arg2-as-denier	cco
+non pertanto	COMPARISON:Concession:Arg2-as-denier	cco
+non prima d'	TEMPORAL:Asynchronous:Succession	prep
+non prima degli	TEMPORAL:Asynchronous:Succession	prep
+non prima dei	TEMPORAL:Asynchronous:Succession	prep
+non prima del	TEMPORAL:Asynchronous:Succession	prep
+non prima dell'	TEMPORAL:Asynchronous:Succession	prep
+non prima della	TEMPORAL:Asynchronous:Succession	prep
+non prima delle	TEMPORAL:Asynchronous:Succession	prep
+non prima dello	TEMPORAL:Asynchronous:Succession	prep
+non prima di	TEMPORAL:Asynchronous:Succession	prep
+nondimeno	COMPARISON:Concession:Arg2-as-denier	csu
+nonostante	COMPARISON:Concession:Arg1-as-denier	csu
+nonostante ciò	COMPARISON:Concession:Arg2-as-denier	cco
+nonpertanto	COMPARISON:Concession:Arg2-as-denier	cco
+né	EXPANSION:Conjunction	csu
+o	EXPANSION:Disjunction/CONTINGENCY:Negative-Condition:Arg1-as-negcond	cco
+od	EXPANSION:Disjunction/CONTINGENCY:Negative-Condition:Arg1-as-negcond	cco
+o...o	EXPANSION:Disjunction	cco
+o meglio	EXPANSION:Equivalence	cco
+od	EXPANSION:Disjunction/CONTINGENCY:Negative-Condition:Arg1-as-negcond	cco
+ogni volta che	TEMPORAL:Synchronous	csu
+oltre a ciò	EXPANSION: Conjunction	cco
+oltre a questo	EXPANSION: Conjunction	cco
+oltretutto	EXPANSION:Conjunction	cco
+oppure	EXPANSION:Disjunction/CONTINGENCY:Negative-Condition:Arg1-as-negcond	cco
+ossia	EXPANSION:Equivalence	cco
+ovvero	EXPANSION:Equivalence	?
+parimenti	COMPARISON:Similarity	adv
+per	CONTINGENCY:Cause:Reason/CONTINGENCY:Purpose:Arg2-as-goal	prep
+per altro	COMPARISON:Contrast/EXPANSION:Conjunction	cco
+per concludere	EXPANSION:Level-of-detail:Arg1-as-detail	?
+per contro	COMPARISON:Concession:Arg2-as-denier/COMPARISON:Contrast	cco
+per cui	CONTINGENCY:Cause:Result	cco
+per di più	EXPANSION:Conjunction	cco
+per esempio	EXPANSION:Instantiation	?
+per giunta	EXPANSION:Conjunction	cco
+per il fatto che	CONTINGENCY:Cause:Reason	csu
+per il resto	EXPANSION:Exception:Arg1-as-excpt	other
+per la qual cosa	CONTINGENCY:Cause:Reason	csu
+per la verità	COMPARISON:Concession:Arg2-as-denier	?
+per meglio dire	EXPANSION:Equivalence	cco
+per poco che	COMPARISON:Concession:Arg1-as-denier	cco
+per prima cosa	EXPANSION:Conjunction	adv
+per quanto	CONTINGENCY:Condition/COMPARISON:Concession:Arg1-as-denier	csu
+per quanta	COMPARISON:Concession:Arg1-as-denier	csu
+per quante	COMPARISON:Concession:Arg1-as-denier	csu
+per quanti	COMPARISON:Concession:Arg1-as-denier	csu
+per questa ragione	CONTINGENCY:Cause:Result	cco
+per questi motivi	CONTINGENCY:Cause:Result	cco
+per questo	CONTINGENCY:Cause:Result	cco
+per questo motivo	CONTINGENCY:Cause:Result	cco
+per un motivo	CONTINGENCY:Cause:Result	cco
+per tutti questi motivi	CONTINGENCY:Cause:Result	cco
+per via d'	CONTINGENCY:Cause:Reason	?
+per via degli	CONTINGENCY:Cause:Reason	?
+per via dei	CONTINGENCY:Cause:Reason	?
+per via del	CONTINGENCY:Cause:Reason	?
+per via dell'	CONTINGENCY:Cause:Reason	?
+per via della	CONTINGENCY:Cause:Reason	?
+per via delle	CONTINGENCY:Cause:Reason	?
+per via dello	CONTINGENCY:Cause:Reason	?
+per via di	CONTINGENCY:Cause:Reason	?
+peraltro	COMPARISON:Contrast/EXPANSION:Conjunction	cco
+perché	CONTINGENCY:Cause:Reason	cco
+perciò	CONTINGENCY:Cause:Result	cco
+perfino	EXPANSION:Conjunction/COMPARISON:Concession:Arg1-as-denier	adv
+persino	EXPANSION:Conjunction/COMPARISON:Concession:Arg1-as-denier	adv
+pertanto	CONTINGENCY:Cause:Result	cco
+però	COMPARISON:Contrast/COMPARISON:Concession:Arg2-as-denier	cco
+pero	COMPARISON:Contrast/COMPARISON:Concession:Arg2-as-denier	cco
+piuttosto	EXPANSION:Substitution:Arg1-as-subst	cco
+piuttosto che	EXPANSION:Substitution:Arg1-as-subst	?
+più che altro	EXPANSION:Level-of-detail	cco
+più tardi	TEMPORAL:Asynchronous:Precedence	cco
+poi	TEMPORAL:Asynchronous:Precedence	adv
+poiché	CONTINGENCY:Cause:Reason	adv
+precedentemente	TEMPORAL:Asynchronous:Succession	adv
+prima	TEMPORAL:Asynchronous:Succession	adv
+prima che	TEMPORAL:Asynchronous:Precedence	prep
+prima d'	TEMPORAL:Asynchronous:Precedence	prep
+prima degli	TEMPORAL:Asynchronous:Precedence	prep
+prima dei	TEMPORAL:Asynchronous:Precedence	prep
+prima del	TEMPORAL:Asynchronous:Precedence	prep
+prima dell'	TEMPORAL:Asynchronous:Precedence	prep
+prima della	TEMPORAL:Asynchronous:Precedence	prep
+prima delle	TEMPORAL:Asynchronous:Precedence	prep
+prima dello	TEMPORAL:Asynchronous:Precedence	prep
+prima di	TEMPORAL:Asynchronous:Precedence	prep
+purché	CONTINGENCY:Condition	csu
+pure	EXPANSION:Conjunction/COMPARISON:Concession:Arg1-as-denier	adv
+quando	TEMPORAL:Synchronous/CONTINGENCY:Condition:Arg1-as-cond/CONTINGENCY:Condition:Arg2-as-cond/TEMPORAL:Asynchronous:Succession	csu
+quantunque	COMPARISON:Concession:Arg1-as-denier	csu
+quindi	CONTINGENCY:Cause:Result/TEMPORAL:Asynchronous:Precedence/EXPANSION:Equivalence	cco
+salvo che	CONTINGENCY:Negative-Condition:Arg2-as-negcond	csu
+se	CONTINGENCY:Condition	csu
+sebbene	COMPARISON:Concession:Arg1-as-denier	csu
+semmai	EXPANSION: Conjunction	other
+sennonché	COMPARISON:Concession:Arg2-as-denier	csu
+sennò	CONTINGENCY:Negative-Condition:Arg1-as-negcond	csu
+senza	EXPANSION:Conjunction/CONTINGENCY:Condition	?
+senza che	EXPANSION:Conjunction/CONTINGENCY:Condition	?
+sia...sia	EXPANSION:Conjunction	?
+sia...che	EXPANSION:Conjunction	?
+seppur	COMPARISON:Concession:Arg1-as-denier	?
+siccome	CONTINGENCY:Cause:Reason	csu
+solamente	COMPARISON:Concession:Arg2-as-denier	adv
+solo	COMPARISON:Concession:Arg2-as-denier	adv
+solo che	COMPARISON:Concession:Arg2-as-denier	?
+solamente che	COMPARISON:Concession:Arg2-as-denier	?
+sopra ogni altra cosa	EXPANSION:Conjunction	cco
+supposto che	CONTINGENCY:Condition	csu
+tanto più che	EXPANSION:Conjunction	csu
+tra l' altro	EXPANSION:Conjunction	cco
+tra le altre cose	EXPANSION:Conjunction	?
+tranne	EXPANSION:Exception:Arg2-as-excpt	prep
+tranne quando	CONTINGENCY:Negative-Condition:Arg2-as-negcond	cco
+tutt' al più	EXPANSION:Exception:Arg2-as-excpt	cco
+tuttalpiù	EXPANSION:Exception:Arg2-as-excpt	cco
+tuttavia	COMPARISON:Concession:Arg2-as-denier	cco
+tutto sommato	EXPANSION:Level-of-detail:Arg1-as-detail	cco
+ugualmente	COMPARISON:Similarity	adv
+vale a dire	EXPANSION:Level-of-detail:Arg2-as-detail	cco
+visto che	CONTINGENCY:Cause:Reason	?
+viceversa	COMPARISON:Concession:Arg2-as-denier/COMPARISON:Contrast	cco
