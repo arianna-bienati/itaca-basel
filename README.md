@@ -17,6 +17,18 @@ This repo contains two analysis notebooks:
 And a python script:
 * `process_ratings.py` cleans the holistic ratings of textual coherence. It is recommended to run the `process.ratings.py` in advance so to have all materials ready for the analysis.
 
-To run the analysis, you need to have installed R, Python and Jupyter Notebooks on you laptop.
+To run `process_ratings.py`, make sure you have Python installed.
+Then:
+
+1. open a new terminal
+2. create a virtual environment (e.g., `python3 -m venv .venv`)
+2. acrivate the virtual environment (`source .venv/bin/activate`)
+3. install pandas (`pip install pandas`)
+4. create an 'output' folder (`mkdir output`)
+
+The scripts creates a clean version of the ratings and related documentation.
+
+To run the notebooks, you need to have R and Jupyter Notebooks installed.
+Make sure that all required packages are installed. If not, install them using `install.packages()`.
 
 For any feedback or issues, please use the "Issues" tab, or contact me at arianna (dot) bienati (at) eurac (dot) edu.
